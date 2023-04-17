@@ -19,7 +19,7 @@ To run the CASHData Web Application on your local machine, follow these steps:
 
 1. Clone this repository.
 2. Install the dependencies using `npm install`.
-3. Start the development server using `npm start`.
+3. Start the development server using `npm run dev`.
 
 ## Conclusion
 
